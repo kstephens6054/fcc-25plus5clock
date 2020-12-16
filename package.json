@@ -1,9 +1,13 @@
 {
   "name": "fcc-25plus5clock",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Kurt Stephens",
     "email": "kstephens6054@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kstephens6054/fcc-25plus5clock.git"
   },
   "private": true,
   "dependencies": {
